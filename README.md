@@ -8,3 +8,5 @@ Help me buy my dream laptop — from one dreamer programmer to another.  [![Buy 
 
 
 [![Download WhisperGem](https://img.shields.io/badge/Download-WhisperGem-blue?style=for-the-badge)](https://whispergem.vercel.app/)
+
+[![Hire Me Via]([https://img.shields.io/badge/Download-WhisperGem-blue?style=for-the-badge](https://pk.linkedin.com/?trk=guest_homepage-basic_nav-header-logo))](https://whispergem.vercel.app/)
